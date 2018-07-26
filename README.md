@@ -1,6 +1,6 @@
 # Kaggle
 
-This is the first time I participate a contest and is very happy that I did this.
+This is the first time I participate a Kaggle contest and is quite happy that I did this.
 
 The reason of chosing this topic is it really are soving a real world problems(imaging the Uber self-driving cars had such a system mounted). My teamates and I participate in this contest mainly for learning and want to take it as a chance to practice what we had learnt. For this reason, the rank is not important at all.
 
