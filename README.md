@@ -1,5 +1,4 @@
 # Kaggle
-Repository for my Kaggle Contest
 
 This is the first time I participate a contest and is very happy that I did this.
 
@@ -16,6 +15,8 @@ For each part of the pipeline, I tried to use as many different methods as possi
 - Model buiding with Sequential and Functional API
 
 - Various data augumentation parameters and different top layers to see how the model perform
+
+- Model ensemble for performance boost
 
 I really enjoy the whole process(only the training in AWS always give me a headache for my network issues) and may consider to participate more in the future. Thanks to my teamates Andy and Randy for their encouragement and helps along the way!
 
